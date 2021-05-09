@@ -1,0 +1,13 @@
+Feature name,P-value,Accept/Reject
+gender,0.239802609,Reject
+ssc_p,4.12E-23,Accept
+ssc_b,0.689772943,Reject
+hsc_p,1.85E-14,Accept
+hsc_b,0.922283705,Reject
+hsc_s,0.572711851,Reject
+degree_p,8.81E-14,Accept
+degree_t,0.226610762,Reject
+workex,9.91E-05,Accept
+etest_p,0.061720381,Reject
+specialisation,0.000420184,Accept
+mba_p,0.261445002,Reject
