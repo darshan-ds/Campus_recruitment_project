@@ -1,6 +1,6 @@
 # CAMPUS RECRUITMENT PROJECT
 ---
-![<a href='https://www.freepik.com/vectors/computer'>Computer vector created by pch.vector - www.freepik.com</a>](images/interview.jpg)
+[![Computer vector created by pch.vector - www.freepik.com](images/interview.jpg)](https://www.freepik.com/vectors/computer)
 ## Introduction
 There are so many factors affect the placements of a student for a job. In this project I am trying to understand some of those factors which recruiters consider important. I have also created a machine learning algorithm which classifies the students who have a high chance of getting placed from those who won’t.
 
